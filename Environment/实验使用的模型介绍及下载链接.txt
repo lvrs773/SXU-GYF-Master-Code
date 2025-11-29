@@ -1,0 +1,13 @@
+ollama：https://ollama.com/
+
+llama3-8b：https://ollama.com/search?q=llama3
+大小4.7GB，上下文32K
+
+qwen2-7b：https://ollama.com/library/qwen2
+大小4.4GB，上下文32K
+
+phi-3-8b：https://ollama.com/library/phi3
+大小2.2GB，上下文128K
+
+gemma2-9b：https://ollama.com/library/gemma2
+大小5.4GB，上下文8K
